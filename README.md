@@ -1,5 +1,4 @@
 # Narcissist
-    #### Video Demo:  <https://youtu.be/xYOiOSf8RXo>
     #### User Description:
 
         This project was my solution to a very niche problem. Imagine that you and some friends 
